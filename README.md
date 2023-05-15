@@ -8,8 +8,8 @@
 The streaming server is written in C++ for high performance and heavily relies on Windows APIs to capture the desktop. This uses the concept of dirty pixels to significantly reduce the pixels sent over the sockets.
 
 1. Download [Visual Studio 2022 Community Edition](https://visualstudio.microsoft.com/downloads/).
-2. Clone the repo: **git clone https://github.com/varunv997/it5007_project.git** 
-3. Open it5007_project/BE-ScreenCaptureServer/proj/vs2017/ScreenCaptureServer.sln on Visual Studio.
+2. Clone the repo: **git clone https://github.com/varun997vn/GameStreaming.git** 
+3. Open GameStreaming/BE-ScreenCaptureServer/proj/vs2017/ScreenCaptureServer.sln on Visual Studio.
 4. Run the program on debug mode (F5).
 
 **Note:** If you dont want to modify the code and just run the application, the exe file is provided (it5007_project/BE-ScreenCaptureServer/executable/ScreenCaptureServer.exe). Just double click and run the server.
