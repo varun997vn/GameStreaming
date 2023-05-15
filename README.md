@@ -12,7 +12,7 @@ The streaming server is written in C++ for high performance and heavily relies o
 3. Open GameStreaming/BE-ScreenCaptureServer/proj/vs2017/ScreenCaptureServer.sln on Visual Studio.
 4. Run the program on debug mode (F5).
 
-**Note:** If you dont want to modify the code and just run the application, the exe file is provided (it5007_project/BE-ScreenCaptureServer/executable/ScreenCaptureServer.exe). Just double click and run the server.
+**Note:** If you dont want to modify the code and just run the application, the exe file is provided (GameStreaming/BE-ScreenCaptureServer/executable/ScreenCaptureServer.exe). Just double click and run the server.
 
 ### Controls Server
 The controls server is written in Python as a REST webservice where it captures GET requests and facilitates launching a game forwarding controls to the application.
