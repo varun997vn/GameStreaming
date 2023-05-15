@@ -57,4 +57,4 @@ The Front End provides the UI for the client to access the Game Streaming Server
 **Note:** You should now be able to navigate to localhost:8000 (The home page of the web application).
 
 ### Contact Information
-For queries related to setup and to report bugs, please contact varun_vn@u.nus.edu.
+For queries related to setup and to report bugs, please contact varun997vn@outlook.com.
